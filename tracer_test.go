@@ -1,7 +1,6 @@
 package gotee
 
 import (
-	"log"
 	"testing"
 
 	"github.com/opentracing/basictracer-go"
